@@ -1,0 +1,25 @@
+﻿.titulo {font-family:"verdana";
+          font-size:40px;
+		  background-color:green;
+		  color:yellow;
+		  text-transform:uppercase;
+		  letter-spacing:10px;
+		  text-shadow: 3px 3px 3px red;}
+		  /*horizontal, vertical, distancia e cor = quando o valor é negativo a sombra fica pra cima*/
+		  
+.texto{font-family:arial;
+       font-size:25px;
+	   line-height:50px;
+	   text-indent:50px;}
+	   
+.negrito{font-weight:bold;}
+
+.italico{font-style:italic;}
+
+.centro{text-align:center;}
+
+.justifica{text-align:justify;}
+
+.sublinha{text-decoration:underline overline;}
+
+.riscar{text-decoration:line-through;}
